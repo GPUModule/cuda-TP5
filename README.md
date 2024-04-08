@@ -1,6 +1,6 @@
 # TP5 : Programmation GPU en CUDA
 
-#Note : Utilisation de CUDA 9.2, dans une cellule de code après nvcc mettre :
+#Note : Utilisation de CUDA 9.2, dans une cellule de code après nvcc (la première cellule) mettre :
 
 ```
 !apt-get --purge remove cuda nvidia* libnvidia-*
