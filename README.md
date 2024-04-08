@@ -1,4 +1,4 @@
-# TP6 : Programmation GPU en CUDA
+# TP5 : Programmation GPU en CUDA
 
 ### Objectifs du TP :
 ---------------------
